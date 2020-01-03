@@ -5,5 +5,6 @@ public class Test {
 		System.out.println("jsjsj");
 		System.out.println("hello world");
 		System.out.println("hello");
+		int a=1;
 	}
 }
